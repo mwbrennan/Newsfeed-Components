@@ -10,7 +10,7 @@ let menuItems = [
 ];
 
 /* 
-  Step 1: Write a component called 'menuMaker' to create a menu like the markup below:
+  Step 1: Write a component called 'menuMaker' to create a menu like the markup below: -
 
   <div class="menu">
     <ul>
